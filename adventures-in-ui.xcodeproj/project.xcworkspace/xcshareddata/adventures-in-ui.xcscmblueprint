@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9F4D05A669C7A5A5ABE50AF1D9B42D719E387D25",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "098F3768A366074D5D0709C8C872A6EFA172F3E9" : 0,
+    "9F4D05A669C7A5A5ABE50AF1D9B42D719E387D25" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "79FEC0EE-9AE9-46C5-90ED-E9A6C2191321",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "098F3768A366074D5D0709C8C872A6EFA172F3E9" : "..",
+    "9F4D05A669C7A5A5ABE50AF1D9B42D719E387D25" : "adventures-in-ui\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "adventures-in-ui",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "adventures-in-ui.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thingdeux\/iOS-and-Swift-Playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "098F3768A366074D5D0709C8C872A6EFA172F3E9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thingdeux\/ios-ui-fun.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F4D05A669C7A5A5ABE50AF1D9B42D719E387D25"
+    }
+  ]
+}
